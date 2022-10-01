@@ -1,0 +1,12 @@
+final int SCREENX = 320;
+final int SCREENY = 320;
+final int PADDLEHEIGHT = 15;
+final int PADDLEWIDTH = 50;
+final int MARGIN = 0;
+int Speed = 2;
+int computerScore = 1;
+int myScore = 1;
+float Rate = 2;
+PFont myFont;
+int g;
+float i = 0;
